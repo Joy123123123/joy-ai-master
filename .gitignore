@@ -1,0 +1,28 @@
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment Variables
+.env
+.env.local
+.env.production
+
+# Backup Files
+*.bak
+*.backup
+
+# Temporary Files
+*.tmp
+temp/
+tmp/
